@@ -33,7 +33,8 @@ I enjoy transforming raw data into actionable insights by combining **business u
 
 - **LinkedIn:** https://www.linkedin.com/in/gaurav-yadav-692438394/  
 - **GitHub:**   https://github.com/gauravy273209-prog
-- **Email:** Gauravydv00111@gmail.com 
+- **Email:** Gauravydv00111@gmail.com
+- **Wwbsite** https://gauravydv.netlify.app/
 
 ---
 
